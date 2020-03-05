@@ -3,86 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/author/</loc>
+    <loc>https://lutherieurbaine93.github.io/LU93_site/en/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/author/"
+                href="https://lutherieurbaine93.github.io/LU93_site/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/"
+                href="https://lutherieurbaine93.github.io/LU93_site/en/author/"
                 />
   </url>
   
   <url>
-    <loc>/en/categories/</loc>
+    <loc>https://lutherieurbaine93.github.io/LU93_site/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/categories/"
+                href="https://lutherieurbaine93.github.io/LU93_site/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://lutherieurbaine93.github.io/LU93_site/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>/en/author/john-doe/</loc>
+    <loc>https://lutherieurbaine93.github.io/LU93_site/en/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/author/john-doe/"
+                href="https://lutherieurbaine93.github.io/LU93_site/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/john-doe/"
+                href="https://lutherieurbaine93.github.io/LU93_site/en/author/john-doe/"
                 />
   </url>
   
   <url>
-    <loc>/en/</loc>
+    <loc>https://lutherieurbaine93.github.io/LU93_site/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/"
+                href="https://lutherieurbaine93.github.io/LU93_site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://lutherieurbaine93.github.io/LU93_site/en/"
                 />
   </url>
   
   <url>
-    <loc>/en/author/mark-dinn/</loc>
+    <loc>https://lutherieurbaine93.github.io/LU93_site/en/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/author/mark-dinn/"
+                href="https://lutherieurbaine93.github.io/LU93_site/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/mark-dinn/"
+                href="https://lutherieurbaine93.github.io/LU93_site/en/author/mark-dinn/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/</loc>
+    <loc>https://lutherieurbaine93.github.io/LU93_site/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/tags/"
+                href="https://lutherieurbaine93.github.io/LU93_site/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://lutherieurbaine93.github.io/LU93_site/en/tags/"
                 />
   </url>
   
